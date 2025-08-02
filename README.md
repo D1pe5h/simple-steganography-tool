@@ -34,3 +34,6 @@ A Python-based application that hides secret messages inside images using the **
 ```bash
 git clone https://github.com/D1pe5h/simple-steganography-tool.git
 cd simple-steganography-tool
+
+## 📄 License
+This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
