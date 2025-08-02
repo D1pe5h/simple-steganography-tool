@@ -22,8 +22,8 @@ A Python-based application that hides secret messages inside images using the **
 ## 🖼️ Screenshot (Example)
 > *Optional: Add a screenshot later by dragging an image here after uploading to Issues or directly in GitHub.*
 
-<!-- If you add a screenshot file called `gui.png` in a `screenshots/` folder, use this: -->
-<!-- ![GUI Demo](screenshots/gui.png) -->
+<img width="724" height="405" alt="Screenshot 2025-08-02 160121" src="https://github.com/user-attachments/assets/fd377dca-cd84-4e98-a9be-d6c663bce5df" />
+
 
 ---
 
