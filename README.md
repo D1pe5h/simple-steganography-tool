@@ -19,6 +19,12 @@ A Python-based application that hides secret messages inside images using the **
 
 ---
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+## 📄 License
+This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
+
+---
+
 ## 🖼️ Screenshot (Example)
 <img width="740" height="444" alt="Screenshot 2025-08-02 155732" src="https://github.com/user-attachments/assets/918a389e-f14b-4670-a38b-814f9cb798b7" />
 
@@ -35,5 +41,3 @@ A Python-based application that hides secret messages inside images using the **
 git clone https://github.com/D1pe5h/simple-steganography-tool.git
 cd simple-steganography-tool
 
-## 📄 License
-This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
